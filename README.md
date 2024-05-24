@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Vasundhara Dixit</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+- As a former sportsperson transitioning into the tech field, I bring a unique blend of discipline, perseverance, and a passion for innovation to my work. <br>
+
+- Pursuing B.Tech in Computer Science Engineering with specializations in IoT, Cyber Security, and Blockchain Technology in VIIT <br>
+
 - 🌱 I’m currently learning **backend development**
 
 - 📫 How to reach me **vdixit2505@gmail.com**
