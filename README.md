@@ -5,7 +5,7 @@
 
 - Pursuing B.Tech in Computer Science Engineering with specializations in IoT, Cyber Security, and Blockchain Technology in VIIT <br>
 
-- 🌱 I’m currently learning **backend development**
+- 🌱 I’m currently exploring Web3 and ML
 
 - 📫 How to reach me **vdixit2505@gmail.com**
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
