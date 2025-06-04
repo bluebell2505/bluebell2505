@@ -4,19 +4,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bluebell2505&label=Profile%20views&color=0e75b6&style=flat" alt="bluebell2505" />
 </p>
-
-- 🧠 Former national-level sportsperson turned tech explorer — blending discipline, curiosity, and creativity. <br>
-
-- 🎓 Pursuing B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain) at VIIT Pune. <br>
-
-- 🚀 Currently building real-world AI tools (healthcare, NLP) and scalable full-stack apps (React, Node, Firebase).  
-
-- 🌱 Exploring Web3, Deep Learning, and blockchain-based innovation.
-
-- 👩‍💻 Founder of **Frangos**, a millet-based snack startup with a tech-driven edge.  
-
-- 📫 Reach me at **vdixit2505@gmail.com**
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+- Former national-level sportsperson turned tech explorer — blending discipline, curiosity, and creativity. <br>
+
+- Pursuing B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain) at VIIT Pune. <br>
+
+- Currently building real-world AI tools (healthcare, NLP) and scalable full-stack apps (React, Node, Firebase).  
+
+- Exploring Web3, Deep Learning, and blockchain-based innovation.
+
+- Founder of **Frangos**, a millet-based snack startup with a tech-driven edge.  
+
+- Reach me at **vdixit2505@gmail.com**
+
 
 ---
 
@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vasundhara-dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vasundhara-dixit" height="30" width="40" /></a>
 <a href="https://instagram.com/vasundhara_2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vasundhara_2505" height="30" width="40" /></a>
-<a href="https://medium.com/@vasundharadixit2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vasundharadixit2505" height="30" width="40" /></a>
+<a href="https://medium.com/@vdixit2505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vasundharadixit2505" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bluebell25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bluebell25" height="30" width="40" /></a>
 </p>
 
@@ -56,7 +56,7 @@
 <p align="left">
   <a href="https://github.com/bluebell2505/drug-testing-ai" target="_blank">🔬 DrugDiscov – Predictive Modeling for ADMET</a><br>
   <a href="https://github.com/bluebell2505/Parkinsons-Disease-Detection" target="_blank">🧠 Parkinson’s Detection using CNN & MRI</a><br>
-  <a href="https://github.com/bluebell2505/SMATT-Smart-Desk-Mat" target="_blank">🗣️ SMATT – Voice-Controlled Smart Desk Mat</a><br>
+  <a href="https://github.com/bluebell2505/SMATT-Smart-Desk-Mat" target="_blank">🤖 SMATT – Voice-Controlled Smart Desk Mat</a><br>
   <a href="https://philately-community.vercel.app/" target="_blank">📬 RetroPhil – Web Community for Indian Philatelists</a>
 </p>
 
@@ -66,12 +66,9 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bluebell2505&show_icons=true&theme=dracula&hide_border=false" width="38%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluebell2505&layout=compact&theme=dracula&hide_border=false&langs_count=8" width="38%" />
+
 </p>
 
-<p align="left">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bluebell2505&theme=dracula&hide_border=false" width="100%"/>
-</p>
 
 ---
 
