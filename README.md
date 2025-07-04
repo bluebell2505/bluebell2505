@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasundhara Dixit</h1>
-<h3 align="center">An AI enthusiast, full-stack developer & tech-savvy founder from India</h3>
+<h3 align="center">An AI enthusiast, full-stack developer & tech-savvy entrepreneur from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bluebell2505&label=Profile%20views&color=0e75b6&style=flat" alt="bluebell2505" />
