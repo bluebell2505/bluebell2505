@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bluebell2505&label=Profile%20views&color=0e75b6&style=flat" alt="bluebell2505" />
 </p>
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - Former national-level sportsperson turned tech explorer — blending discipline, curiosity, and creativity. <br>
 
 - Pursuing B.Tech in Computer Science Engineering (IoT, Cybersecurity & Blockchain) at VIIT Pune. <br>
@@ -13,7 +13,7 @@
 
 - Exploring Web3, Deep Learning, and blockchain-based innovation.
 
-- Founder of **Frangos**, a millet-based snack startup with a tech-driven edge.  
+- Founder @**Frangos**, a millet-based snack startup.  
 
 - Reach me at **vdixit2505@gmail.com**
 
